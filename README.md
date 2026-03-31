@@ -1,4 +1,3 @@
-# PRODIGY_DS_01
 
 # 📊 Visualizing Population Data – Bar Chart / Histogram Project
 
